@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>PrinceDigitalHub | Sulabh Gwal</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+<style>
+body{margin:0;font-family:Poppins;background:#0f0f0f;color:#fff}
+section{padding:60px 10%}
+h1,h2{color:#00ffd5}
+.card{background:#1a1a1a;padding:20px;border-radius:10px;margin-bottom:20px}
+a{color:#00ffd5;text-decoration:none}
+</style>
+</head>
+<body>
+
+<section>
+<h1>PrinceDigitalHub</h1>
+<p>Creative Freelancer | Video Editing • Graphic Design • Ads • Social Media</p>
+</section>
+
+<section>
+<h2>Services</h2>
+<div class="card">Video Editing (Reels, YouTube, Ads)</div>
+<div class="card">Graphic Design & Logo</div>
+<div class="card">Social Media Handling</div>
+<div class="card">Meta Ads & Business Growth</div>
+<div class="card">Local Brand Shoot & Editing</div>
+</section>
+
+<section>
+<h2>Portfolio</h2>
+<p>Projects added from Admin Panel will appear here.</p>
+</section>
+
+<section>
+<h2>Contact</h2>
+<p>📞 +91 89233 31147</p>
+<p>📧 sulabhgwal94@gmail.com</p>
+</section>
+
+<footer style="text-align:center;padding:20px;">
+© 2026 PrinceDigitalHub
+</footer>
+
+</body>
+</html>
